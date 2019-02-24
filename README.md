@@ -3,7 +3,7 @@ An exploration of Android development - possible Viridians port
 
 ## Day One
 
-This is going to be a process. My end goal is to have some kind of Pokemon Yellow inspired minigame for Android. I'm fairly comfortable with Java Core, so my first step was downloading Android Studio to brush up a bit. I went with this video series to get started:
+This is going to be a process. My end goal is to have some kind of Pokemon Yellow inspired minigame for Android. I'm fairly comfortable with Java Core, so my first step was downloading [Android Studio](https://developer.android.com/studio/index.html#downloads) and brushing up a bit. I went with this video series to get started:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dFlPARW5IX8
 " target="_blank"><img src="http://img.youtube.com/vi/dFlPARW5IX8/0.jpg" 
