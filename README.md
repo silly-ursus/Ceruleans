@@ -2,8 +2,8 @@
 An exploration of Android development - possible Viridians port
 
 ## Technologies
-..* [Android Studio](https://developer.android.com/studio/index.html#downloads)
-..* [Tiled](https://thorbjorn.itch.io/tiled)
+* [Android Studio](https://developer.android.com/studio/index.html#downloads)
+* [Tiled](https://thorbjorn.itch.io/tiled)
 
 ## Day One
 
