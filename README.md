@@ -3,7 +3,6 @@ An exploration of Android development - possible Viridians port
 
 ## Technologies
 * [Android Studio](https://developer.android.com/studio/index.html#downloads)
-* [Tiled](https://thorbjorn.itch.io/tiled)
 
 ## Day One
 
@@ -15,4 +14,4 @@ alt="Android Studio For Beginners" width="240" height="180" border="10" /></a>
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-I knew I'd need some [assets](https://itch.io/game-assets/free), and that I wanted to work with 2D in this first stage. To make a UI for use in Android Studio I'm using [Tiled](https://www.youtube.com/watch?v=qik60F5I6J4).
+I knew I'd need some [assets](https://itch.io/game-assets/free), and that I wanted to work with 2D in this first stage.
